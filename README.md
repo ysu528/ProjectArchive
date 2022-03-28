@@ -43,6 +43,11 @@
 
 项目地址：https://github.com/ysu528/100-Days-Of-ML-Code
 
+### 1.8 最全面的 Kaggle 解决方案和想法列表
+汇总了几乎所有Kaggle历史竞赛解决方案和Top思路的网页，新的比赛一结束，这个名单就会更新
+
+项目地址：https://github.com/ysu528/kaggle-solutions
+
 ## 二、学习资源整理
 
 ### 2.1 燕山大学528组学习资源
