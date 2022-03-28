@@ -6,12 +6,12 @@
 
 ## 一、推荐系统方向
 
-### 1.1 推荐系统模板存储
+### 1.1 推荐系统模板存储（施工中）
 用于存储所有组内的可开源的推荐系统基本模板（尚在开发过程中）
 
 项目地址：https://github.com/ysu528/RecommenderSystems
 
-### 1.2 统计所有适合本项目组的kaggle类赛事
+### 1.2 统计所有适合本项目组的kaggle类赛事（施工中）
 例如CTR模型，可以在对应的赛事项目上来尝试
 
 项目地址：https://github.com/ysu528/ysu528kaggle
@@ -167,6 +167,12 @@ python学习的一百天，对于python学习新手有很大的帮助
 matplotlib使用学习
 
 项目地址：https://github.com/ysu528/fantastic-matplotlib
+
+### 8.5 pycharm使用教程
+许多项目调试环节是需要在pycharm中进行的，而且pycharm可以很方便进行本地code和服务器上code的数据同步
+
+### 8.6 docker使用教程
+不少项目环境配置很麻烦，如果采用docker直接打包好，移植就会变得简单许多
 
 ## 九、大数据
 
