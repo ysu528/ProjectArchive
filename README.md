@@ -120,24 +120,29 @@
 
 ## 五、后端项目学习
 
-### 5.1 Course-Selection-System（抢课系统）
+### 5.1 电影推荐系统-王喆
+SparrowRecSys是一个电影推荐系统，名字SparrowRecSys（麻雀推荐系统），取自“麻雀虽小，五脏俱全”之意。项目是一个基于maven的混合语言项目，同时包含了TensorFlow，Spark，Jetty Server等推荐系统的不同模块。希望你能够利用SparrowRecSys进行推荐系统的学习，并有机会一起完善它。
+
+项目地址：https://github.com/ysu528/SparrowRecSys
+
+### 5.2 Course-Selection-System（抢课系统）
 本项目是一个选排课系统项目，整个系统包括登录模块、成员模块、排课模块和抢课模块，面向管理员的主要业务为成员管理，进行创建或者删除成员，以及排课管理，设置教师与课程的绑定关系，面向学生的主要业务为抢课以及查看学生课表。就消息队列+令牌环处理抢课高并发问题。
 
 项目文档：https://bytedancecampus1.feishu.cn/docs/doccngiFrZry8S8Y8wqy1wdxKOh#
 
 项目地址：https://github.com/ysu528/Course-Selection-System
 
-### 5.2 后端架构师技术图谱
+### 5.3 后端架构师技术图谱
 从初级开发者到资深架构师，看这些基本就够了
 
 项目地址：https://github.com/ysu528/architect-awesome
 
-### 5.3 CS-Notes
+### 5.4 CS-Notes
 项目大量介绍了各类常用的基础知识点，包括算法、操作系统	网络、面向对象、数据库、Java、系统设计、工具、编码实践等多个方面  
 
 项目地址：https://github.com/ysu528/CS-Notes
 
-### 5.4 Python-100-Days
+### 5.5 Python-100-Days
 python学习的一百天，对于python学习新手有很大的帮助
 
 项目地址：https://github.com/ysu528/Python-100-Days
